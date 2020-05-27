@@ -1,6 +1,6 @@
-# centre-tokens
+# ehs-tokens
 
-Fiat tokens on the [CENTRE](https://centre.io) network.
+Fiat tokens on the(https://ehs.io) network.
 
 ## Setup
 
